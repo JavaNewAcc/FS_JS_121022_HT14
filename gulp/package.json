@@ -1,0 +1,28 @@
+{
+  "name": "hometask14",
+  "version": "1.0.0",
+  "description": "Hometask to leeson 14, JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaNewAcc/FS_JS_121022_HT14.git"
+  },
+  "keywords": [
+    "hometask14",
+    "gulp",
+    "FED-PRO-2311",
+    "frontend"
+  ],
+  "author": "Anton Braginets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaNewAcc/FS_JS_121022_HT14/issues"
+  },
+  "homepage": "https://github.com/JavaNewAcc/FS_JS_121022_HT14#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
