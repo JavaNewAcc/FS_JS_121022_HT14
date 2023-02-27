@@ -27,6 +27,7 @@ window.onload = () => {
                 autoplay: true,
                 autoplaySpeed: 2000,
                 pauseOnFocus: true,
+                arrows: false,
                 slidesToShow: 5,
                 responsive: [
                     {
